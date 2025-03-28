@@ -29,8 +29,15 @@
 <a target="_blank" href="https://www.youtube.com/@data_greek" style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" /></a></p>
 
 <h2> 📊 GitHub Stats </h2>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=samithcsachi&show_icons=true&locale=en" alt="samithcsachi" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samithcsachi&layout=donut-vertical"  alt="samithcsachi" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=samithcsachi&show_icons=true&locale=en&theme=transparent" alt="samithcsachi" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samithcsachi&layout=donut-vertical&theme=transparent"  alt="samithcsachi" /></p>
+
+
+<div align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/samithcsachi/samithcsachi/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/samithcsachi/samithcsachi/blob/output/github-snake.svg)" />
+  <img alt="github-snake" src="https://github.com/samithcsachi/samithcsachi/blob/output/github-snake.svg" />
+</div>
 
 
 <h2>❤️ Support Me</h2>
