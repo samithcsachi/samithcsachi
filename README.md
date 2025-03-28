@@ -43,13 +43,10 @@
 <h2 align="center"> 📊 GitHub Stats </h2>
 
 <div align="center">
-   <p>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=samithcsachi&show_icons=true&locale=en&theme=transparent" alt="samithcsachi" />
-      <img align="center" src="https://streak-stats.demolab.com/?user=samithcsachi&theme=transparent" alt="samithcsachi" />
-   </p>
-   <p>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samithcsachi&layout=donut-vertical&theme=transparent" alt="samithcsachi" />
-   </p>
+   
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=samithcsachi&show_icons=true&locale=en&theme=transparent" alt="samithcsachi" /></p>
+  
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samithcsachi&layout=donut-vertical&theme=transparent" alt="samithcsachi" /></p>
 </div>
 
 
