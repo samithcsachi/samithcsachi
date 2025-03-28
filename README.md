@@ -28,9 +28,9 @@
 <a target="_blank" href="https://medium.com/@samithc" style="display: inline-block;"><img src="https://img.shields.io/badge/medium-logo?style=for-the-badge&logo=medium&logoColor=white&color=black" alt="medium" /></a>
 <a target="_blank" href="https://www.youtube.com/@data_greek" style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" /></a></p>
 
-
+<h2> 📊 GitHub Stats </h2>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=samithcsachi&show_icons=true&locale=en" alt="samithcsachi" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=samithcsachi&show_icons=true&locale=en&layout=compact" alt="samithcsachi" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samithcsachi&layout=donut-vertical"  alt="samithcsachi" /></p>
 
 
 <h2>❤️ Support Me</h2>
