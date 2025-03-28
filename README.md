@@ -19,8 +19,8 @@
 
 
 
-[![Tableau](assets/tableau.svg)]
-[![Power BI](assets/power-bi.svg)]
+![Tableau](assets/tableau.svg)
+![Power BI](assets/power-bi.svg)
 
 
 
