@@ -16,8 +16,8 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" style="display: inline-block;">
     <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="42" height="42" />
 </a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" style="display: inline-block;">
-    <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="Tableau" width="42" height="42" />
+<a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" style="display: inline-block;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" width="42" height="42" />
 </a>
 
 
