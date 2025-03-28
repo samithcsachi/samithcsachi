@@ -30,14 +30,24 @@
 
 <h2> 📊 GitHub Stats </h2>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=samithcsachi&show_icons=true&locale=en&theme=transparent" alt="samithcsachi" /></p>
+<p><img src="https://streak-stats.demolab.com/?user=samithcsachi&theme=transparent"  alt="samithcsachi" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samithcsachi&layout=donut-vertical&theme=transparent"  alt="samithcsachi" /></p>
 
 
+
+
 <div align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/samithcsachi/samithcsachi/blob/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/samithcsachi/samithcsachi/blob/output/github-snake.svg)" />
-  <img alt="github-snake" src="https://github.com/samithcsachi/samithcsachi/blob/output/github-snake.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/samithcsachi/samithcsachi/blob/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/samithcsachi/samithcsachi/blob/output/github-snake.svg">
+    <img alt="github-snake" src="https://github.com/samithcsachi/samithcsachi/blob/output/github-snake.svg">
+  </picture>
 </div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=samithcsachi&color=blue&style=flat-square" alt="Profile Views" />
+</div>
+
 
 
 <h2>❤️ Support Me</h2>
