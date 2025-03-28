@@ -13,15 +13,9 @@
 <a target="_blank" href="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" style="display: inline-block;"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="42" height="42" /></a></p>
-<a target="_blank" href="https://icons8.com/icon/39816/power-bi" style="display: inline-block;">
-    <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="42" height="42" />
-</a>
 
-
-
-![Tableau](assets/tableau.svg)
-![Power BI](assets/power-bi.svg)
-
+<img src="assets/tableau.svg" alt="Tableau" width="42" height="42" />
+<img src="assets/power-bi.svg" alt="Power BI" width="42" height="42" />
 
 
 <h2>⚡️ Where to find me</h2>
