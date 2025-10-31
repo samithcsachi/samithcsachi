@@ -33,7 +33,7 @@
 <h2 align="center">⚡️ Where to find me</h2>
 <div align="center">
 <p><a target="_blank" href="https://www.linkedin.com/in/samithchimminiyan" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
-    <a target="_blank" href="https://www.samithc.com" style="display: inline-block;"><img src="https://img.shields.io/badge/website-visit?style=for-the-badge&logo=google-chrome&logoColor=white&color=black" alt="website" /></a>
+    <a target="_blank" href="https://samithcsachi.github.io/" style="display: inline-block;"><img src="https://img.shields.io/badge/website-visit?style=for-the-badge&logo=google-chrome&logoColor=white&color=black" alt="website" /></a>
     <a target="_blank" href="https://www.kaggle.com/samithsachidanandan" style="display: inline-block;"><img src="https://img.shields.io/badge/kaggle-profile?style=for-the-badge&logo=kaggle&logoColor=white&color=20beff" alt="kaggle" /></a>
     <a target="_blank" href="https://medium.com/@samithc" style="display: inline-block;"><img src="https://img.shields.io/badge/medium-logo?style=for-the-badge&logo=medium&logoColor=white&color=black" alt="medium" /></a>
     <a target="_blank" href="https://twitter.com/@SamithCSachida1" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
