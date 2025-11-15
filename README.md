@@ -2,12 +2,12 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Cursive&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Samith+Chimminiyan!;&color=000000" />
 </h1>
 
-
-
 <div align="center">
-<p>I'm a passionate Machine Learning Engineer actively competing in Kaggle competitions and refining my skills in data science, model development, and AI-driven insights. I also work with Tableau and Power BI to transform data into compelling visual narratives. Explore my portfolio to see my latest projects, and let's connect to collaborate on data-driven innovations!</p>
-</div>
+<p>I’m a passionate Machine Learning Engineer and Computer Vision Engineer, committed to building impactful AI solutions and pushing the boundaries of model development. I actively participate in Kaggle competitions and specialize in deep learning, computer vision, and end-to-end data science. I also leverage Tableau and Power BI to transform complex datasets into compelling visual stories.
 
+Explore my portfolio for my latest AI and vision projects, and let’s connect to collaborate on innovative, data-driven initiatives!</p>
+
+</div>
 
 <h2 align="center">🚀 Languages and Tools I Use</h2>
 <div align="center">
@@ -20,15 +20,21 @@
 <a target="_blank" href="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" style="display: inline-block;"><img src="assets/seaborn.svg" alt="seaborn" width="42" height="42" /></a>
 <a target="_blank" href="" style="display: inline-block;"><img src="assets/Matplotlib.svg" alt="Matplotlib" width="42" height="42" /></a>
 <a target="_blank" href="" style="display: inline-block;"><img src="assets/Streamlit.svg" alt="Streamlit" width="42" height="42" /></a>
+<a target="_blank" href="" style="display: inline-block;"><img src="assets/OpenCV.svg" alt="OpenCV" width="42" height="42" /></a>
+<a target="_blank" href="" style="display: inline-block;"><img src="assets/Fastapi.svg" alt="Fastapi" width="42" height="42" /></a>
+<a target="_blank" href="" style="display: inline-block;"><img src="assets/gradio.svg" alt="gradio" width="42" height="42" /></a>
+<a target="_blank" href="" style="display: inline-block;"><img src="assets/docker.svg" alt="docker" width="42" height="42" /></a>
+<a target="_blank" href="" style="display: inline-block;"><img src="assets/aws.svg" alt="aws" width="42" height="42" /></a>
+<a target="_blank" href="" style="display: inline-block;"><img src="assets/huggingface.svg" alt="huggingface" width="42" height="42" /></a>
 <a target="_blank" href="" style="display: inline-block;"><img src="assets/tableau.svg" alt="Tableau" width="42" height="42" /></a>
 <a target="_blank" href="" style="display: inline-block;"><img src="assets/power-bi.svg" alt="Power BI" width="42" height="42" /></a>
 <a target="_blank" href="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" style="display: inline-block;"><img src="assets/sql-server.svg" alt="mssql" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="assets/mysql.svg" alt="mysql" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" style="display: inline-block;"><img src="assets/postgresql.svg" alt="postgresql" width="42" height="42" />
 <a target="_blank" href="" style="display: inline-block;"><img src="assets/Excel.svg" alt="Excel" width="42" height="42" /></a>
+
 </p>
 </div>
-
 
 <h2 align="center">⚡️ Where to find me</h2>
 <div align="center">
@@ -39,7 +45,6 @@
 <a target="_blank" href="https://www.youtube.com/@data_greek" style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" /></a></p>
 </div>
 
-
 <h2 align="center"> 📊 GitHub Stats </h2>
 
 <div align="center">
@@ -48,11 +53,6 @@
   
   <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samithcsachi&layout=donut-vertical&theme=transparent" alt="samithcsachi" /></p>
 </div>
-
-
-
-
-
 
 <div align="center">
   <picture>
@@ -65,8 +65,6 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=samithcsachi&color=blue&style=flat-square" alt="Profile Views" />
 </div>
-
-
 
 <h2 align="center">❤️ Support Me</h2>
 <div align="center">
