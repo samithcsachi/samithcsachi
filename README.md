@@ -12,7 +12,6 @@ Explore my portfolio for my latest AI and vision projects, and let’s connect t
 <h2 align="center">🚀 Languages and Tools I Use</h2>
 <div align="center">
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="assets/python.svg" alt="python" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="assets/html5.svg" alt="html5" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" style="display: inline-block;"><img src="assets/tensorflow.svg" alt="tensorflow" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" style="display: inline-block;"><img src="assets/pytorch.svg" alt="pytorch" width="42" height="42" /></a>
 <a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" style="display: inline-block;"><img src="assets/Scikit.svg" alt="scikit_learn" width="42" height="42" /></a>
@@ -25,7 +24,9 @@ Explore my portfolio for my latest AI and vision projects, and let’s connect t
 <a target="_blank" href="" style="display: inline-block;"><img src="assets/gradio.svg" alt="gradio" width="42" height="42" /></a>
 <a target="_blank" href="" style="display: inline-block;"><img src="assets/docker.svg" alt="docker" width="42" height="42" /></a>
 <a target="_blank" href="" style="display: inline-block;"><img src="assets/aws.svg" alt="aws" width="42" height="42" /></a>
+<a target="_blank" href="" style="display: inline-block;"><img src="assets/jupyter.svg" alt="jupyter" width="42" height="42" /></a>
 <a target="_blank" href="" style="display: inline-block;"><img src="assets/huggingface.svg" alt="huggingface" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="assets/html5.svg" alt="html5" width="42" height="42" /></a>
 <a target="_blank" href="" style="display: inline-block;"><img src="assets/tableau.svg" alt="Tableau" width="42" height="42" /></a>
 <a target="_blank" href="" style="display: inline-block;"><img src="assets/power-bi.svg" alt="Power BI" width="42" height="42" /></a>
 <a target="_blank" href="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" style="display: inline-block;"><img src="assets/sql-server.svg" alt="mssql" width="42" height="42" /></a>
