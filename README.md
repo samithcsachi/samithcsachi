@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-<p>I’m a passionate Machine Learning Engineer and Computer Vision Engineer, committed to building impactful ML solutions and pushing the boundaries of model development. I actively participate in Kaggle competitions and specialize in deep learning, computer vision, and end-to-end data science. I also leverage Tableau and Power BI to transform complex datasets into compelling visual stories.
+<p>I’m a passionate Machine Learning Engineer and Computer Vision Engineer, committed to building impactful ML solutions and pushing the boundaries of model development. I actively participate in Kaggle competitions and specialize in deep learning, computer vision, and end-to-end data science.
 
 Explore my portfolio for my latest ML and vision projects, and let’s connect to collaborate on innovative, data-driven initiatives!</p>
 
